@@ -50,3 +50,11 @@ vite.config.ts.*
 *.sw?
 .history
 .cursor
+
+
+# BMad core directory
+.bmad-core/
+
+
+# RooModes file
+.roomodes
